@@ -1,85 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DU CAPTEUR]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>DU CAPTEUR</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 13 Oct 2024 12:55:47 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 13 Oct 2024 12:55:47 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Articles]]></title><description><![CDATA[ 
- <br><br>tags: <br>
-<br>obsidian
-<br>mkdocs
-<br>obs2mk<br>
-share: true<br>
-category: Documentation
-<br><br><br>The article "Application of ATP-based bioluminescence technology in bacterial detection: a review" discusses the use of ATP bioluminescence as a method for detecting and quantifying bacteria. Here's an overview of the key points:<br><br>ATP bioluminescence technology is based on the fact that living bacteria contain ATP (adenosine triphosphate), and the amount of ATP correlates with the number of bacteria present[1]. This method uses luciferase, an enzyme that catalyzes a light-producing reaction with luciferin and ATP[1].<br>The advantages of this technique include:<br>
-<br>Rapid detection
-<br>Easy operation
-<br>Short detection cycle
-<br>Low human resource requirements
-<br>Suitability for long-term continuous monitoring[1]
-<br><br>ATP bioluminescence has several applications in bacterial detection:<br>Food Safety: It can quickly and accurately detect the number of bacteria, which is crucial for ensuring food safety[1].<br>Antibiotic Susceptibility Testing: The method can rapidly detect the effects of antibiotics on bacterial cultures, potentially replacing conventional antibiotic susceptibility testing methods[3].<br>Hygiene and Cell Viability Testing: ATP bioluminescence can be used to estimate the number of viable cells in a sample, making it useful for hygiene monitoring in various settings[3].<br><br>While ATP bioluminescence is a powerful tool, it has some limitations:<br>
-<br>It cannot distinguish between live and dead bacteria or other sources of ATP[4].
-<br>It does not consistently detect bacterial spores[4].
-<br>It is not effective for detecting viruses, as they do not contain ATP[4].
-<br>Certain substances, like bleach-based disinfectants, can interfere with ATP readings[4].
-<br><br>The article explores the combination of ATP bioluminescence with other detection methods to improve accuracy, portability, and efficiency[1]. Researchers are continually working on enhancing this technology to overcome its limitations and expand its applications in bacterial detection[2].<br>In conclusion, ATP-based bioluminescence technology offers a promising approach for rapid and sensitive bacterial detection, with ongoing research aimed at improving its capabilities and addressing its current limitations.<br>Citations:<br>
-[1] <a rel="noopener" class="external-link" href="https://pubs.rsc.org/en/content/articlelanding/2023/an/d3an00576c/unauth" target="_blank">https://pubs.rsc.org/en/content/articlelanding/2023/an/d3an00576c/unauth</a><br>
-[2] <a rel="noopener" class="external-link" href="https://pubs.rsc.org/en/content/articlelanding/2023/an/d3an00576c" target="_blank">https://pubs.rsc.org/en/content/articlelanding/2023/an/d3an00576c</a><br>
-[3] <a rel="noopener" class="external-link" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7822345/" target="_blank">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7822345/</a><br>
-[4] <a rel="noopener" class="external-link" href="https://www.infectioncontroltoday.com/view/adenosine-triphosphate-atp-bioluminescence-testing-performance" target="_blank">https://www.infectioncontroltoday.com/view/adenosine-triphosphate-atp-bioluminescence-testing-performance</a><br>
-[5] <a rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/37366080/" target="_blank">https://pubmed.ncbi.nlm.nih.gov/37366080/</a><br>
-[6] <a rel="noopener" class="external-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0026265X23005994" target="_blank">https://www.sciencedirect.com/science/article/abs/pii/S0026265X23005994</a><br>
-[7] <a rel="noopener" class="external-link" href="https://www.tandfonline.com/doi/full/10.1080/10962247.2022.2101566" target="_blank">https://www.tandfonline.com/doi/full/10.1080/10962247.2022.2101566</a><br>
-[8] <a rel="noopener" class="external-link" href="https://www.researchgate.net/publication/282641538_Bioluminescence_ATP_Assay_for_Microbial_Growth_Recognition" target="_blank">https://www.researchgate.net/publication/282641538_Bioluminescence_ATP_Assay_for_Microbial_Growth_Recognition</a><br><br> This article provides an overview of bioluminescence and its diverse applications in biotechnology and other fields. Here's a summary of the key points:<br><br>Bioluminescence is a natural phenomenon where living organisms produce light through a chemical reaction. This reaction involves the oxidation of a small molecule called luciferin, catalyzed by an enzyme called luciferase, resulting in light emission[1].<br><br>There are over 30 known bioluminescent systems, but only 11 luciferin-luciferase pairs have been fully characterized. Each system has unique light emission wavelengths, making them suitable for various applications[1].<br><br>Bioluminescence has found numerous applications in biotechnology, including:<br>
-<br>Gene assays
-<br>Detection of protein-protein interactions
-<br>High-throughput screening in drug discovery
-<br>Hygiene control
-<br>Analysis of pollution in ecosystems
-<br>In vivo imaging in small mammals[1][2]
-<br><br>Recent developments in bioluminescence applications include:<br>
-<br>Bioluminescence-induced photo-uncaging of small molecules
-<br>Bioluminescence-based photodynamic therapy (PDT)
-<br>Controlling neurons using bioluminescence[1]
-<br><br>Some exciting "blue-sky" research projects involve:<br>
-<br>Engineering light-emitting plants
-<br>Developing bioluminescent lamps[1][4]
-<br><br>Bioluminescence offers several advantages over other light-emitting phenomena:<br>
-<br>No need for preliminary absorption of light or electromagnetic radiation
-<br>Avoids surface quenching, surface scattering, and sample heating effects
-<br>Non-toxic nature of luciferins
-<br>High spatial resolution and sensitivity
-<br>Impressive quantum efficiency[4]
-<br><br>The field of bioluminescence continues to evolve, with ongoing research focusing on:<br>
-<br>Improving existing systems
-<br>Discovering new bioluminescent organisms
-<br>Developing novel applications in medicine, environmental monitoring, and biotechnology[1][4]
-<br>In conclusion, bioluminescence has become a versatile tool in biotechnology and beyond, with applications ranging from basic research to advanced medical treatments and environmental monitoring. Its unique properties and ongoing advancements make it a promising field for future innovations.<br>Citations:<br>
-[1] <a rel="noopener" class="external-link" href="https://www.semanticscholar.org/paper/Applications-of-bioluminescence-in-biotechnology-Syed-Anderson/22be8e79a553a3e6fa64172800ef16d70379678e" target="_blank">https://www.semanticscholar.org/paper/Applications-of-bioluminescence-in-biotechnology-Syed-Anderson/22be8e79a553a3e6fa64172800ef16d70379678e</a><br>
-[2] <a rel="noopener" class="external-link" href="https://pubs.rsc.org/en/content/articlelanding/2021/cs/d0cs01492c" target="_blank">https://pubs.rsc.org/en/content/articlelanding/2021/cs/d0cs01492c</a><br>
-[3] <a rel="noopener" class="external-link" href="https://www.tandfonline.com/doi/full/10.1080/10962247.2022.2101566" target="_blank">https://www.tandfonline.com/doi/full/10.1080/10962247.2022.2101566</a><br>
-[4] <a rel="noopener" class="external-link" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10861286/" target="_blank">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10861286/</a><br>
-[5] <a rel="noopener" class="external-link" href="https://www.infectioncontroltoday.com/view/adenosine-triphosphate-atp-bioluminescence-testing-performance" target="_blank">https://www.infectioncontroltoday.com/view/adenosine-triphosphate-atp-bioluminescence-testing-performance</a><br>
-[6] <a rel="noopener" class="external-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0010854523000346" target="_blank">https://www.sciencedirect.com/science/article/abs/pii/S0010854523000346</a><br>
-[7] <a rel="noopener" class="external-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0026265X23005994" target="_blank">https://www.sciencedirect.com/science/article/abs/pii/S0026265X23005994</a><br>
-[8] <a rel="noopener" class="external-link" href="https://pubs.rsc.org/en/content/articlelanding/2023/an/d3an00576c/unauth" target="_blank">https://pubs.rsc.org/en/content/articlelanding/2023/an/d3an00576c/unauth</a><br><br>The article "Luminescence Probes in Bio-Applications: From Principle to Practice" provides a comprehensive overview of luminescence probes and their applications in biological research. Here's a summary of the key points:<br><br>The article discusses two main types of luminescence:<br>
-<br>Photoluminescence: Includes fluorescence and phosphorescence, where light emission occurs after absorption of photons.
-<br>Chemiluminescence: Light emission resulting from a chemical reaction, with bioluminescence being a subset occurring in living organisms.
-<br><br>The authors describe various strategies for designing luminescence probes:<br>
-<br>Modulating fluorophore properties
-<br>Using mechanisms like photoinduced electron transfer (PET)
-<br>Employing aggregation-induced emission (AIE)
-<br>Developing ratiometric probes for more accurate measurements
-<br><br>Luminescence probes have diverse applications, including:<br>
-<br>Detecting metal ions, small molecules, and biomacromolecules
-<br>Monitoring enzyme activity
-<br>Imaging cellular structures and processes
-<br>Tracking drug delivery and metabolism
-<br><br>The article highlights recent developments such as:<br>
-<br>Near-infrared (NIR) probes for deep tissue imaging
-<br>Two-photon excitation fluorescence microscopy
-<br>Genetically encoded fluorescent proteins
-<br>Quantum dots and other nanoparticle-based probes
-<br><br>The authors discuss several challenges and areas for improvement:<br>
-<br>Enhancing probe stability and brightness
-<br>Reducing background signal
-<br>Developing probes for new biological targets
-<br>Improving biocompatibility and reducing toxicity
-<br>In conclusion, the article provides a thorough examination of luminescence probes, from their basic principles to practical applications in biological research. It emphasizes the ongoing development of these tools and their potential to advance our understanding of complex biological systems[1].<br>Citations:<br>
-[1] <a rel="noopener" class="external-link" href="https://doi.org/10.3390/bios14070333" target="_blank">https://doi.org/10.3390/bios14070333</a>]]></description><link>du-capteur\articles.html</link><guid isPermaLink="false">DU Capteur/Articles.md</guid><pubDate>Sun, 13 Oct 2024 11:09:00 GMT</pubDate></item><item><title><![CDATA[test  1]]></title><description><![CDATA[ 
- ]]></description><link>du-capteur\test-1.html</link><guid isPermaLink="false">DU Capteur/test  1.md</guid><pubDate>Tue, 08 Oct 2024 13:50:37 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
- ]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Sun, 13 Oct 2024 12:52:52 GMT</pubDate></item></channel></rss>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DU CAPTEUR]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>DU CAPTEUR</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 13 Oct 2024 13:48:51 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 13 Oct 2024 13:48:51 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Se familiariser avec l'impression 3D]]></title><description><![CDATA[ 
+ <br>Afin de se familiariser avec l'impression 3D et le fonctionnement des imprimantes, j'ai proceder selon ce etapes : <br>
+<br><a data-href="#Création d'un objet Fusion360" href="about:blank#Création_d'un_objet_Fusion360" class="internal-link" target="_self" rel="noopener">Création d'un objet Fusion360</a>
+<br><a data-href="#Telecharger un objet sur https //www.printables.com" href="about:blank#Telecharger_un_objet_sur_https_\www.printables.com" class="internal-link" target="_self" rel="noopener">Telecharger un objet sur https //www.printables.com</a>
+<br><a data-href="#Utiliser le slicer" href="about:blank#Utiliser_le_slicer" class="internal-link" target="_self" rel="noopener">Utiliser le slicer</a>
+<br><a data-href="#Prise en main d'utilisation de l'imprimante" href="about:blank#Prise_en_main_d'utilisation_de_l'imprimante" class="internal-link" target="_self" rel="noopener">Prise en main d'utilisation de l'imprimante</a>
+<br><a data-href="#Resultat de l'impression" href="about:blank#Resultat_de_l'impression" class="internal-link" target="_self" rel="noopener">Resultat de l'impression</a>
+<br><br><br><br><br>]]></description><link>impression-3d\se-familiariser-avec-l'impression-3d.html</link><guid isPermaLink="false">Impression 3D/Se familiariser avec l'impression 3D.md</guid><pubDate>Sun, 13 Oct 2024 13:41:56 GMT</pubDate></item><item><title><![CDATA[Entry Point]]></title><description><![CDATA[ 
+ <br><br>Multi column
+Work  
+
+<br><a data-href="Company Page" href="Company Page" class="internal-link" target="_self" rel="noopener">Company Page</a>
+<br><a data-tooltip-position="top" aria-label="home" data-href="home" href="home.html" class="internal-link" target="_self" rel="noopener">Meetings</a>
+
+name Add meeting
+type link
+action shortcuts://run-shortcut?name=Create Meeting Minutes
+Copy
+
+Personal  
+
+<br><a data-href="Info" href="Info" class="internal-link" target="_self" rel="noopener">Info</a>
+<br><a data-href="Films" href="Films" class="internal-link" target="_self" rel="noopener">Films</a>
+<br><a data-href="Books" href="Books" class="internal-link" target="_self" rel="noopener">Books</a>
+<br><a data-href="Projects" href="Projects" class="internal-link" target="_self" rel="noopener">Projects</a>
+
+
+<br><br>Multi column
+Blank container
+
+ TABLE WITHOUT ID link(file.link, title) AS "File",
+   bar AS "Status" FROM #todo OR #backlog AND !#dailynote AND -"templates" SORT file.ctime LIMIT 10
+Copy
+
+Blank container
+
+ TABLE WITHOUT ID link(file.link, title) as "File", length(file.inlinks) AS "Mentions"
+ FROM "" SORT file.ctime DESC LIMIT 10
+Copy
+
+Blank container
+
+ TABLE WITHOUT ID link(file.link, title) AS "File", sr-due as "Due" FROM #review WHERE sr-due &lt;= date(today) SORT sr-due LIMIT 10
+Copy
+
+]]></description><link>home.html</link><guid isPermaLink="false">home.md</guid><pubDate>Sun, 13 Oct 2024 13:48:32 GMT</pubDate></item></channel></rss>
